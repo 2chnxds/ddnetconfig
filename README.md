@@ -13,34 +13,34 @@ f11 - список всех биндов конфига(в чат могут в�
 ctrl+f11 - перезагрузка конфига
 
 # Functions
-Copy fly
-Deffault fly
-Pseudo fly
-Dummy toggle
-Macho IRC
-Macho spoofer changer
-Macho aim fov bind
-Macho aim at tile toggle
-Macho show fov toggle
-Senc aiming
-45 aiming
-Connect/discconect dummy with bind
-Clear irc, remove, local with 1 bind
-Bettervote
-Camera mode
-Get rainbow/weapons on ki-o
-Betterkill
-Toggle debug menu
-Rainbow tee
-Rcon super/unsuper
-Rcon jetpak and endless/unjetpack and unendless
-Rcon drop armor and health
-Rcon auth with bind 
-Rcon dummy pls with bind
-Rcon get premium on ddnetpp
-Rcon get weapons
-Rescue with bind
-Login of your account on ddnetpp with bind 
+ Copy fly
+ Deffault fly
+ Pseudo fly
+ Dummy toggle
+ Macho IRC
+ Macho spoofer changer
+ Macho aim fov bind
+ Macho aim at tile toggle
+ Macho show fov toggle
+ Senc aiming
+ 45 aiming
+ Connect/discconect dummy with bind
+ Clear irc, remove, local with 1 bind
+ Bettervote
+ Camera mode
+ Get rainbow/weapons on ki-o
+ Betterkill
+ Toggle debug menu
+ Rainbow tee
+ Rcon super/unsuper
+ Rcon jetpak and endless/unjetpack and unendless
+ Rcon drop armor and health
+ Rcon auth with bind 
+ Rcon dummy pls with bind
+ Rcon get premium on ddnetpp
+ Rcon get weapons
+ Rescue with bind
+ Login of your account on ddnetpp with bind 
 
 # Вкладки
 

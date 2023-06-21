@@ -1,0 +1,7 @@
+bind mouse1 "+hook; +toggle cl_dummy_hammer 1 0"
+bind mouse2 +fire
+echo [ Pseudo is on ]
+echo [ Copy moves bind of h ]
+bind kp_6 exec zteror/deffault/pseudo_toggle/pseudooff
+bind kp_2 exec zteror/deffault/fly_toggle/flyon
+bind kp_5 exec zteror/defffault/copyfly_toggle/copyflyon

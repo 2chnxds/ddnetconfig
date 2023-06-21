@@ -1,0 +1,3 @@
+echo [ Aim at tiles is off ]
+cl_aim_tiles 0
+bind 6 exec zteror/macho/aimtile_toggle/aimtileon

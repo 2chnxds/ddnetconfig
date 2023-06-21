@@ -1,0 +1,7 @@
+echo [ Rainbow tee is on ]
+bind a "+left; player_color_body red"
+bind d "+right; player_color_body yellow"
+bind space "+jump; player_color_body green"
+bind mouse1 "+fire; player_color_body blue"
+bind mouse2 "+hook; player_color_body cyan"
+bind kp_4 exec zteror/deffault/rainbowtee_toggle/rainbowteeoff

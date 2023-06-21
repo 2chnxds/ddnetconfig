@@ -1,0 +1,1 @@
+bind l "cl_dummy 1; kill; cl_dummy 0; kill; rcon kill_pl me; +fire"

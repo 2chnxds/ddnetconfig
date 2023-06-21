@@ -1,0 +1,4 @@
+echo [ Aim fov is changed ]
+cl_aim_fov 100
+bind kp_plus echo [ This is maximum ]
+bind kp_minus zteror/macho/aimfov/exec aimfov95

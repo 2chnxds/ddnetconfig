@@ -1,0 +1,3 @@
+echo [ Render fov is off ]
+cl_aim_render_fov 0
+bind 7 exec zteror/macho/renderfov_toggle/renderfovon

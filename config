@@ -1,0 +1,51 @@
+
+Rcon execute bind
+echo Cog "rcon" successfully loaded!
+
+bind j exec zteror/rcon/debug_toggle/debugon
+bind c exec zteror/rcon/super_toggle/superon
+bind o exec zteror/rcon/jetpack_endless_toggle/jetendlesson
+bind f11 exec zteror/bindlist
+bind k "kill; unjetpack; unsuper; unendless_hook; bind c exec zteror/rcon/super_toggle/superon; bind o exec zteror/rcon/jetpack_endless_toggle/jetendlesson"
+bind z "kill; unjetpack; unsuper; unendless_hook; bind c exec zteror/rcon/super_toggle/superon; bind o exec zteror/rcon/jetpack_endless_toggle/jetendlesson"
+exec zteror/rcon/drop_health_armor/drop_health_amor
+exec zteror/rcon/auto_rcon_auth/bind
+exec zteror/rcon/dummy_pls/bind
+exec zteror/rcon/get_premium/bind
+exec zteror/rcon/get_weapons/bind
+exec zteror/rcon/reautoexec/bind
+exec zteror/rcon/jostik/jostik
+
+Deffault execute bind
+echo Cog "deffault" successfully loaded!
+
+bind kp_2 exec zteror/deffault/fly_toggle/flyon
+bind kp_4 exec zteror/deffault/rainbowtee_toggle/rainbowteeon
+bind kp_5 exec zteror/deffault/copyfly_toggle/copyflyon
+bind kp_6 exec zteror/deffault/pseudo_toggle/pseudoon
+bind mouse5 exec zteror/deffault/sencaiming_toggle/sencaimingon
+bind ctrl+f11 exec zteror/config
+bind ctrl+kp_plus zoom+
+bind ctrl+kp_minus zoom-
+bind ctrl+x exec zteror/deffault/dummy_toggle/dummyon
+exec zteror/deffault/45aiming/45aiming
+exec zteror/deffault/rescue/rescue
+exec zteror/deffault/autologin/username
+exec zteror/deffault/betterkill/betterkill
+exec zteror/deffault/bettervote/bettervote
+exec zteror/deffault/kio/weapons
+exec zteror/deffault/kio/rainbow
+cl_run_on_join "exec zteror/config"
+add_favorite 194.87.92.161:8303
+
+Macho execute bind
+echo Cog "macho" successfully loaded!
+
+bind mouse4 exec zteror/macho/firetrigger_toggle/triggeron
+cl_aim_fov 5
+exec zteror/macho/irc/irc
+bind f6 "clear_irc_console; clear_local_console; clear_remote_console"
+bind kp_plus exec zteror/macho/aimfov/aimfov10
+bind 6 exec zteror/macho/aimtile_toggle/aimtileon
+bind 7 exec zteror/macho/renderfov_toggle/renderfovon
+bind 8 exec zteror/macho/spooferchanger_toggle/spooferchangeron

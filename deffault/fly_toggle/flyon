@@ -1,0 +1,5 @@
+bind mouse1 "+fire; +toggle cl_dummy_hammer 1 0"
+bind kp_2 "exec zteror/deffault/fly_toggle/flyoff"
+bind kp_6 exec zteror/deffault/pseudo_toggle/pseudoon
+bind kp_5 exec zteror/deffault/copyflytoggle/copyflyon
+echo [ Fly is on ]

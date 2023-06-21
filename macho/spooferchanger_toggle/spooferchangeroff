@@ -1,0 +1,8 @@
+echo [ Spoofer changer is off ]
+cl_aim_spoofer 0
+bind d +right
+bind a +left
+bind mouse1 +fire
+bind mouse2 +hook
+bind space +jump
+bind 8 exec zteror/macho/spooferchanger_toggle/spooferchangeron

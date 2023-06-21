@@ -1,0 +1,3 @@
+bind mouse1 +fire
+bind kp_2 "exec zteror/deffault/fly_toggle/flyon"
+echo [ Fly is off ]

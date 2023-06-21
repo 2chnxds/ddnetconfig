@@ -1,0 +1,5 @@
+cl_dummy_copy_moves 1
+bind kp_5 exec zteror/deffault/copyfly_toggle/copyflyoff
+bind kp_6 exec zteror/deffault/pseudo_toggle/pseudoon
+bind kp_2 exec zteror/deffault/fly_toggle/flyon
+echo [ Copy fly is on ]

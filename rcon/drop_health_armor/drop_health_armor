@@ -1,0 +1,2 @@
+echo [ Successfully ]
+bind m rcon "drop_health 15; drop_armor 15"

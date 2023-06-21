@@ -1,0 +1,1 @@
+bind mouse4 "+toggle cl_mouse_max_distance 2 400; +toggle inp_mousesens 1 200; +showhookcoll"

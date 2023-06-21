@@ -1,0 +1,1 @@
+bind kp_3 "toggle cl_nameplates 0 1 ; toggle cl_showchat 0 1; toggle cl_showhud 0 1; toggle cl_showkillmessages 0 1;toggle cl_show_hook_coll_other 0 1;toggle cl_show_hook_coll_own 0 1 ; cl_show_quads 1 ;cl_overlay_entities 0"

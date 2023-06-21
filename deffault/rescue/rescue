@@ -1,0 +1,1 @@
+bind f "say /r; rcon rescue"

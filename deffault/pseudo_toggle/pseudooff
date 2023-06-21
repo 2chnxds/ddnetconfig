@@ -1,0 +1,5 @@
+bind mouse1 +fire
+bind mouse2 +hook
+cl_dummy_copy_moves 0
+echo [ Pseudo is off ]
+bind kp_6 exec zteror/deffault/pseudo_toggle/pseudoon

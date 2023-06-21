@@ -1,0 +1,2 @@
+bind f3 "vote yes; rcon vote yes; say f3"
+bind f4 "vote no; rcon vote no; say f4"

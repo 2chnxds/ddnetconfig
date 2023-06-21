@@ -1,0 +1,8 @@
+echo [ Spoofer changer is on ]
+cl_aim_spoofer 1
+bind d "+right; cl_aim_spoofer_offset_x 7; cl_aim_spoofer_offset_y 7"
+bind a "+left; cl_aim_spoofer_offset_x 8; cl_aim_spoofer_offst_y 7"
+bind mouse1 "+fire; cl_aim_spoofer_offset_x 6; cl_aim_spoofer_offset_y 6"
+bind mouse2 "+hook; cl_aim_spoofer_offset_x 8; cl_aim_spoofer_offset_y 8"
+bind space "+jump; cl_aim_spoofer_offset_x 6; cl_aim_spoofer_offset_y 8"
+bind 8 exec zteror/macho/spooferchanger_toggle/spooferchangeroff

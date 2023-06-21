@@ -1,0 +1,2 @@
+echo [ Successfully ]
+rcon "broadcast pls connect dummy pls; say pls connect dummy pls"

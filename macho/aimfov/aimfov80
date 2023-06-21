@@ -1,0 +1,4 @@
+echo [ Aim fov is changed ]
+cl_aim_fov 80
+bind kp_plus exec zteror/macho/aimfov/aimfov85
+bind kp_minus exec zteror/macho/aimfov/aimfov75

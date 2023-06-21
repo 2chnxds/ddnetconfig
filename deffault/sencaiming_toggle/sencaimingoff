@@ -1,0 +1,3 @@
+echo [ Senc aiming is off ]
+bind mouse5 inp_mousesens 1000
+bind mouse5 exec zteror/deffault/sencaiming_toggle/sencaimingon

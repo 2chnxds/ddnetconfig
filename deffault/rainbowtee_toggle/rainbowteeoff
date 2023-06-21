@@ -1,0 +1,7 @@
+echo [ Rainbow tee is off ]
+bind a +left
+bind d +right
+bind space +jump
+bind mouse1 +fire
+bind mouse2 +hook
+bind kp_4 exec zteror/deffault/rainbowtee_toggle/rainbowteeon

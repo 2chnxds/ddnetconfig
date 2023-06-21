@@ -1,0 +1,36 @@
+echo --- BIND LIST
+echo J - toggle debug menu
+echo C - toggle super mode
+echo O - toggle jetpack&endless
+echo V - drop armor and health
+echo P - auth of rcon
+echo Y - dummy pls
+echo U - get premium (sql)
+echo N - get weapons
+echo H - copy moves
+echo KP_0 - reload autoexec config
+echo right, left, up, down - move in blocks
+echo KP_2 - toggle fly
+echo KP_3 - cameramode
+echo KP_4 - toggle rainbowtee
+echo KP_5 - toggle copyfly
+echo KP_6 - toggle pseudo
+echo KP_7 - toggle dummy
+echo M5 - sencaiming
+echo F - rescue
+echo G - login of your account (ddnetpp)
+echo L - betterkill (kill of tee and dummy by 1 bind)
+echo F3, F4 - bettervote (bind rcon vote and say ur choise)
+echo CTRL+F1 - get weapons with premium on kio
+echo CTRL+F2 - get rainbow with premium on kio
+echo M4 - fire trigger toggle
+echo KP_PLUS, KP_MINUS - aim fov settings
+echo 6 - aim at tile toggle
+echo 7 - render aim fov
+echo 8 - auto changer of spoofer
+echo f5 - irc chat
+echo ctrl+f5 - irc reconnect
+echo f6 - clear local, remote, irc console
+echo f11 - bind list
+echo ctrl+f11 - reload config
+echo ctrl KP_PLUS, KP_MINUS - zoom settings

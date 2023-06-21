@@ -1,0 +1,4 @@
+echo [ Jetpack&endless are off ]
+bind o exec zteror/rcon/jetpack_endless_toggle/jetendlesson
+rcon unjetpack
+rcon unendless_hook

@@ -1,0 +1,4 @@
+echo [ Jetpack&endless are on ]
+bind o exec zteror/rcon/jetpack_endless_toggle/jetendlessoff
+rcon jetpack
+rcon endless_hook

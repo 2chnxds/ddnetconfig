@@ -1,0 +1,4 @@
+echo [ Trigger is off ]
+cl_aim_trigger 0
+cl_aim_trigger_auto_fire 0
+bind mouse4 exec zteror/macho/firetrigger_toggle/triggeron

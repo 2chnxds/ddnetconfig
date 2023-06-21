@@ -1,0 +1,3 @@
+echo [ Debug menu is disable ]
+bind j exec zteror/rcon/debug_toggle/debugon
+debug 0

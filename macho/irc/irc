@@ -1,0 +1,2 @@
+bind f5 "toggle_irc_console"
+bind ctrl+f5 irc_reconnect
